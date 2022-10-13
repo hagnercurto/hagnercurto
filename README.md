@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hagnercurto
-- 👀 I’m interested in software development
+- 👀 Software development
 - 🌱 I’m currently working for NetProject at Belo Horizonte, BR
 - 📫 How to reach me: hagnernc@gmail.com
 
